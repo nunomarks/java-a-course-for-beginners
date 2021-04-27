@@ -1,31 +1,7 @@
-# Learn Java Programming in 250 Steps
-
-[![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java Programming for Complete Beginners in 250 Steps
-")](https://www.udemy.com/course/java-programming-tutorial-for-beginners)
-
-
-## Hands on Step by Step Introduction to the most popular programming language
-
-
-## Getting Started
-- Eclipse - https://courses.in28minutes.com/p/eclipse-tutorial-for-beginners
-- Maven - https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps
-- JUnit - https://courses.in28minutes.com/p/junit-tutorial-for-beginners
-
-## Installing Tools
-- PDF : https://github.com/in28minutes/java-a-course-for-beginners/blob/master/InstallingJava9AndEclipse.pdf
-
 ## Overview
 
 ### Introduction
 
-We love Programming. Our aim with this course is to create a love for Programming.
-
-Java is one of the most popular programming languages. Java offers both object oriented and functional programming features. 
-
-We take an hands-on approach using a combination of JShell(An awesome new feature in Java 9) and Eclipse as an IDE to illustrate more than 200 Java Coding Exercises, Puzzles and Code Examples.  
-
-In more than 250 Steps, we explore the most important Java Programming Language Features
 - Basics of Java Programming - Expressions, Variables and Printing Output
 - Java Operators - Java Assignment Operator, Relational and Logical Operators, Short Circuit Operators
 - Java Conditionals and If Statement
@@ -53,25 +29,6 @@ In more than 250 Steps, we explore the most important Java Programming Language 
 - Introduction to Executor Service - Customizing number of Active Threads. Returning a Future,  invokeAll and invokeAny
 - Introduction to Exception Handling - Your Thought Process during Exception Handling. try, catch and finally. Exception Hierarchy - Checked Exceptions vs Unchecked Exceptions. Throwing an Exception. Creating and Throwing a Custom Exception - CurrenciesDoNotMatchException. Try with Resources - New Feature in Java 7.
 - List files and folders in Directory with Files list method, File walk method and find methods. Read and write from a File.
-
-### What You will learn
-
-- You will learn how to think as a Java Programmer
-- You will learn how to start your journey as a Java Programmer
-- You will learn the basics of Eclipse IDE and JShell 
-- You will learn to develop awesome object oriented programs with Java
-- You will solve a wide variety of hands-on exercises on the topics discussed below
-- You will learn the basics of programming - variables, choosing a data type, conditional execution, loops, writing great methods, breaking down problems into sub problems and implementing great Exception Handling.
-- You will learn the basics of Object Oriented Programming - Intefaces, Inheritance, Abstract Class and Constructors
-- You will learn the important concepts of Object Oriented Programming - Abstraction, Inheritance, Encapsulation and Polymorphism
-- You will learn to do basic functional programming with Java
-- You will learn the basics of MultiThreading - with Executor Service
-- You will learn about a wide variety of Collections - List, Map, Set and Queue Interfaces
-
-
-### Requirements
-- Connectivity to Internet to download Java 9 and Eclipse.
-- We will help you install Java9 with JShell and Eclipse.
 
 ### Step Wise Details
 
