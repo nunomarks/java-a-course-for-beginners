@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.learning</groupId>
+    <artifactId>base-pom</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>03-IntroductionToObjectOrientedProgramming</module>
+        <module>04-PrimitiveDataTypesAndAlternatives</module>
+        <module>05-Conditionals</module>
+        <module>06-Loops</module>
+        <module>08-ArraysAndArrayList</module>
+        <module>09-ObjectOrientedProgrammingAgain</module>
+        <module>10-Collections</module>
+        <module>11-Generics</module>
+    </modules>
+
+</project>
